@@ -1,0 +1,48 @@
+#banner{
+    width:800px;
+    height:100px;
+    color:floralwhite;
+    background-color: rosybrown;
+    clear:both;
+}
+#nav{
+    width:100px;
+    height:200px;
+    background-color: #DDD7CB; 
+    float:left;
+    
+}
+#content{
+    width:600px;
+    
+    background-color: #F7F7F7;
+    float:left;
+}
+    
+#supporting{
+    width:100px;
+    height:150px;
+    background-color:#B2B7B7;
+    float:left;
+}
+
+#footer{
+    width:800px;
+    height:50px;
+    color:white;
+    background-color: black; 
+    clear:both;
+}
+
+
+.container{
+    padding: 5px
+}
+
+
+body {
+    width:800px
+    margin: 0 auto;
+}
+
+
